@@ -19,7 +19,33 @@ The system is built using **Flask, Multithreading, and WebSockets** to provide a
 🔗 https://producer-consumer-simulator-l4gm.onrender.com/
 
 ---
+## 📸 Screenshots
 
+### 🖥️ Complete System Interface
+
+![System](images/Complete%20System%20Interface%20of%20OS%20Simulator.png)
+
+### 📦 Buffer Visualization
+
+![Buffer](images/Buffer%20Visualization%20Interface.png)
+
+### 📝 Event Logs
+
+![Logs](images/Event%20Log%20of%20Producer%20and%20Consumer%20Activities.png)
+
+### 🎮 Manual Controls
+
+![Controls](images/Manual%20Control%20of%20Producers,%20Consumers,%20Buffers%20and%20Execution.png)
+
+### 🧵 Thread Monitoring
+
+![Threads](images/Thread%20Monitoring%20System.png)
+
+### 📊 Throughput Graph
+
+![Graph](images/Throughput%20Graph.png)
+
+---
 ## 🎯 Objectives
 
 * Simulate the Producer-Consumer problem in real time
@@ -112,33 +138,7 @@ The system is built using **Flask, Multithreading, and WebSockets** to provide a
 
 ---
 
-## 📸 Screenshots
 
-### 🖥️ Complete System Interface
-
-![System](images/Complete%20System%20Interface%20of%20OS%20Simulator.png)
-
-### 📦 Buffer Visualization
-
-![Buffer](images/Buffer%20Visualization%20Interface.png)
-
-### 📝 Event Logs
-
-![Logs](images/Event%20Log%20of%20Producer%20and%20Consumer%20Activities.png)
-
-### 🎮 Manual Controls
-
-![Controls](images/Manual%20Control%20of%20Producers,%20Consumers,%20Buffers%20and%20Execution.png)
-
-### 🧵 Thread Monitoring
-
-![Threads](images/Thread%20Monitoring%20System.png)
-
-### 📊 Throughput Graph
-
-![Graph](images/Throughput%20Graph.png)
-
----
 
 ## 🧰 Technologies Used
 
